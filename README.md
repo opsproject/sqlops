@@ -4,7 +4,7 @@
 * Tool      = sqlops
 * version   = 1.0
 * developer = Sir uidops
-* email     = Sir.u1d0p5@gmail.com
+* email     = 4opsproject@gmail.com
 * ----------------------#
 
 * Tested on Windows , Linux , Android
